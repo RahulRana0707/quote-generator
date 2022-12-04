@@ -109,7 +109,7 @@
 }
 @media (max-width: 1370px) {
   .app .container {
-    width: max-content;
+    width: 70vw;
     height: 53vh;
   }
   .button .tasks .taskBtn button {
@@ -118,6 +118,7 @@
 }
 @media (max-width: 1200px) {
   .app .container {
+    width: 70vw;
     height: max-content;
   }
   .button .tasks .taskBtn button {
